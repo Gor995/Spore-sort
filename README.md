@@ -19,11 +19,13 @@ spore_sort 123456789012
 spore_sort /path/to/folder
 ```
 (Answer N in prompt)
+
 3. Sort sporecasts (Sorts both any PNGs and extracts all assets from adventures, sorting those too.):
 ```bash
 spore_sort /path/to/folder
 ```
 (Answer Y in prompt)
+
 4.  Dry-run to preview actions (append --dry-run as second argument):
 
 ```bash

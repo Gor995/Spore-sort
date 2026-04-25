@@ -2,7 +2,8 @@
 A sh file for spore that copies every PNG inside a file and moves them to their respective places (e.g.: Creature.png goes to creatures folder)
 # Instructions:
 1. Save script as 'spore_sort'
-2. Make executable:
+2. Move to /.local/bin
+3. Make executable:
 ```bash
 chmod +x spore_sort
 ```

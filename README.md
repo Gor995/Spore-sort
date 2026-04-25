@@ -36,6 +36,6 @@ Meant to be used with SADL or my 'Sporecast-downloader'
 
 SADL: https://github.com/Red-Lattice/spore_adventure_downloader
 
-Sporecast-downloader:
+Sporecast-downloader: https://github.com/Gor995/Sporecast-downloader
 
 

@@ -7,7 +7,7 @@ A sh file for spore that copies every PNG inside a file and moves them to their 
 ```bash
 chmod +x spore_sort
 ```
-3. Edit the CREATIONS variable near the top of the script if your 'My Spore Creations' is different than what it lists.
+3. Edit the CREATIONS variable near the top of the script if your 'My Spore Creations' directory is different than what it lists.
 # Usage:
 
 1. Download + sort a single adventure and all it's assets by its asset ID:

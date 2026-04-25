@@ -1,6 +1,6 @@
 # Spore-sort
 A sh file for spore that copies every PNG inside a file and moves them to their respective places (e.g.: Creature.png goes to creatures folder)
-# Instructions:
+# Installation:
 1. Save script as 'spore_sort'
 2. Move to /.local/bin
 3. Make executable:
